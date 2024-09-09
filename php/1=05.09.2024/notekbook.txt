@@ -1,0 +1,6 @@
+Temat: Struktura jezyka PHP
+
+PHP (HYPERTEXT PREPROCESOR)
+-wykonywany po stronie serwera
+
+
