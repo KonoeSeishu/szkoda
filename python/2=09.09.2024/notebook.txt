@@ -1,1 +1,12 @@
-Temat:
+Temat: Zmienne
+
+-Nazwy zmiennych z malej litery (zmiennaZnakowa)
+
+-Nie mozna @,$,% i spacji
+
+-Wielkosc liter w zmiennych ma znaczenie (umu =! uMu)
+
+-Nie uzywamy tych nazw zmiennych="and, except, lambda, with, as, 
+finally, nonlocal, while, assert, false, None, yield, break, 
+for, not, class, from, or, continue, global, pass, def, if, 
+raise, del, import, return, elif, in, else, is, try"
