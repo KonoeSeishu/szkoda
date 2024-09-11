@@ -1,0 +1,30 @@
+*
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#baner, #stopka
+{
+    background-color: #4BA3C7;
+    color: white;
+    height: 80px;
+    font-size: 120%;
+}
+#lewy, #prawy
+{
+    background-color: #EFEFEF;
+    height: 400px;
+    width: 25%;
+}
+#srodkowy
+{
+    background-color: #EFEFEF;
+    height: 400px;
+    width: 25%;
+}
+table
+{
+    margin-left: 10px;
+    width: 90%;
+    border: solid 1px #90CAF9;
+}

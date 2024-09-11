@@ -1,0 +1,8 @@
+T: Iteracja a rekurencja.
+
+Rekurencja- funkcja wywoluje sama siebie
+
+n!=1*2*3*4...*(n-1)*n
+
+
+
