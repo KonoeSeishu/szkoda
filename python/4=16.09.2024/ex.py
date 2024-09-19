@@ -26,3 +26,21 @@ print(f"""
       total_cost {fin}
 """)
 
+#4
+print(f"{'=' * 40} \n VERSION: 1.0.1 \n {'-' * 40}")
+
+#5
+print(f"{'=' * 40} \n author: uwu@gmail.com \n date: 192.2921.2042 {'-' * 40}")
+
+#6
+store_name = "Shopshoe"
+item_name = "Running shoes"
+item_price = 100.00
+item_discount = 0.30
+print(f"""
+      Welcome to Shopshoe 
+      {item_name}
+      total_cost {item_price}
+""")
+
+
