@@ -1,13 +1,16 @@
-body{
+body
+{
     font-family: Garamond;
     background-color: MistyRose;
     color: rgb(62, 39, 35);
     text-align: center;
 }
-#baner{
+#baner
+{
 clear: both;
 }
-#left{
+#left
+{
     float: left;
     width: 20%;
     height: 600px;
@@ -15,33 +18,40 @@ clear: both;
     box-shadow: 15px 15px 10px dimgray;
     overflow: auto;
 }
-#left_img{
+#left_img
+{
     width: 100%;
 }
-#right{
+#right
+{
     float: left;
     width: 65%;
     height: 600px;
 }
-#miniatura{
+#miniatura
+{
     width: 140px;
     padding: 2px;
     border-radius: 5%;
     height: 100px;
 }
-#miniatura:hover{
+#miniatura:hover
+{
     border: 1px dotted black;
 }
-#bigimg{
+#bigimg
+{
     width: 500px;
     margin: 30px;
     box-shadow: 15px 15px 10px dimgray;
 }
-table{
+table
+{
     border: 1px black dotted;
     width: 100%;
 }
-#footer{
+#footer
+{
     width: 100%;
     clear: both;
 }
