@@ -1,0 +1,47 @@
+body{
+    font-family: Garamond;
+    background-color: MistyRose;
+    color: rgb(62, 39, 35);
+    text-align: center;
+}
+#baner{
+clear: both;
+}
+#left{
+    float: left;
+    width: 20%;
+    height: 600px;
+    margin: 30px;
+    box-shadow: 15px 15px 10px dimgray;
+    overflow: auto;
+}
+#left_img{
+    width: 100%;
+}
+#right{
+    float: left;
+    width: 65%;
+    height: 600px;
+}
+#miniatura{
+    width: 140px;
+    padding: 2px;
+    border-radius: 5%;
+    height: 100px;
+}
+#miniatura:hover{
+    border: 1px dotted black;
+}
+#bigimg{
+    width: 500px;
+    margin: 30px;
+    box-shadow: 15px 15px 10px dimgray;
+}
+table{
+    border: 1px black dotted;
+    width: 100%;
+}
+#footer{
+    width: 100%;
+    clear: both;
+}
