@@ -1,0 +1,41 @@
+*
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#stopka, #baner
+{
+    background-color: #C75B39;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+#lewy
+{
+    background-color: #FF8A65;
+    width: 25%;
+    height: 500px;
+    padding-top: 50px;
+    float: left;
+}
+#prawy
+{
+    background-color: snow;
+    width: 75%;
+    height: 500px;
+    text-align: center;
+    padding-top: 50px;
+    float: right;
+}
+img
+{
+    width: 25%;
+    margin: 10px;
+    box-shadow: 15 15 10 dimgray;
+}
+h3
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+}

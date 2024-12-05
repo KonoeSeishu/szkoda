@@ -2,17 +2,53 @@
 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-baner, stopka
+#baner, #stopka
 {
+    clear: both;
     background-color: #829EB9;
-    color: white;
+    color: black;
     text-align: center;
-    padding: 10px;
+    padding: 10px;    
+    
 }
-lewy, prawy
+#lewy, #prawy
 {
     background-color: #B3C6D9;
     height: 400px;
     width: 25%;
     padding-top: 100px;
+    float: left;
+}
+#srodkowy
+{
+    background-color: #E0E9F1;
+    height: 400px;
+    width: 50%;
+    text-align: center;
+    padding-top: 100px;
+    float: left;    
+}
+img
+{
+    width: 100%;
+    border-radius: 20px;
+    
+}
+table
+{
+    border: 1px solid dimgray;
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+}
+td, th
+{
+    border: 1px solid dimgray;
+    border-collapse: collapse;
+}
+
+td:hover, th:hover
+{
+    background-color: steelblue;
+    color: white;
 }

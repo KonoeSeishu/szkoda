@@ -25,7 +25,7 @@ left
 main
 {
     background-color: mintcream;
-    margin: 80px;
+    padding: 80px;
 }
 footer1, footer2
 {
@@ -40,6 +40,7 @@ button, input
 {
     background-color: mintcream;
     color: seagreen;
+    margin: 20px;
 }
 
 img
@@ -50,4 +51,5 @@ img
 a
 {
     line-height: 30px;
+    padding: 15px;
 }
