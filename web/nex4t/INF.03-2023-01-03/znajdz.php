@@ -15,7 +15,7 @@
         <h2>Menu</h2>
         <ol>
             <li><a href="index.html">Strona glowna</a><br></li>
-            <li>a href="https://www.kwiaty.pl/">Rozpoznaj Kwiaty</a><br></li>
+            <li><a href="https://www.kwiaty.pl/">Rozpoznaj Kwiaty</a><br></li>
             <li><a href="znajdz.php">Znajdz Kwiaciarnie</a></li>
             <ul>
                 <li>w warszawie</li>

@@ -1,0 +1,29 @@
+#baner
+{
+    background-color: #3A7AD9;
+    text-align: center;
+    height: 50px;
+}
+#plewy
+{
+    background-color: #5D93E2;
+    text-align: left;
+    height: 400px;
+    width: 30%;
+    float: left;
+}
+#pprawy
+{
+    background-color: #88B0EC;
+    text-align: left;
+    height: 400px;
+    width: 70%;
+    float: left;
+}
+#stopka
+{
+    clear: both;
+    background-color: #3A7AD9;
+    text-align: right;
+    height: 50px;
+}
