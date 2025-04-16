@@ -1,0 +1,8 @@
+class Car:
+    def __init__(self,brand, model, year, color):
+        self.name_car = brand + " " + model
+        self.productionDate = year
+        self.color = color
+
+    def printInfo(self):
+        print(self.name_car + " " + self.color + " " str)
