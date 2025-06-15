@@ -1,5 +1,5 @@
 zUmu = "uwu"    #string
-print (zUmu)    
+print (zUmu)
 
 zWmW = 8832     #int
 print (zWmW)
